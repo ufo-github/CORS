@@ -31,7 +31,7 @@ https://www.html5rocks.com/en/tutorials/cors/
 
 http://caniuse.com/#search=CORS
 
-![CORS-all-support.png](CORS-all-support.png)
+![CORS-all-support.png](./images/CORS-all-support.png)
 
 
 
